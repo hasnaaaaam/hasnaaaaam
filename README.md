@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasna Minatul Mardiah</h1>
 <h3 align="justify">I am a student studying to become a cyber security from Indonesia</h3>
 
-- 🌱 I’m currently learning **frontend dicoding idcampI**
+- 🌱 I’m currently learning **frontend dicoding idcamp**
 
 - 📫 How to reach me **hasnamardiyah06@gmail.com**
 
